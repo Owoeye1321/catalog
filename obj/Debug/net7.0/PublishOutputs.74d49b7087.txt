@@ -1,0 +1,12 @@
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/catalog
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/appsettings.json
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/catalog.dll
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/catalog.deps.json
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/catalog.runtimeconfig.json
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/catalog.pdb
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/Microsoft.OpenApi.dll
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Desktop/MyApplications/catalog/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
