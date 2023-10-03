@@ -2,28 +2,27 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/InMemItemsRepositories.cs">
     <Files>
-      <File FileName="Repositories/InMemItemsRepositories.cs" Line="14" Column="1" />
-      <File FileName="Models/Item.cs" Line="12" Column="2" />
+      <File FileName="Repositories/InMemItemsRepositories.cs" Line="21" Column="6" />
+      <File FileName="Models/Item.cs" />
+      <File FileName="Repositories/IInMemItemsRepositories.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="catalog" expanded="True">
+          <Node name="catalog">
             <Node name="catalog" expanded="True">
               <Node name="Models" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="InMemItemsRepositories.cs" selected="True" />
-              </Node>
+              <Node name="Repositories" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
