@@ -47,6 +47,7 @@ namespace Catalog.Controllers
         Id = Guid.NewGuid(),
         Name = itemDto.Name,
         Price = itemDto.Price,
+        Description = itemDto.Description,
         CreatedDate = DateTimeOffset.UtcNow
       };
       await repository.CreateItemAsync(item);
@@ -57,8 +58,9 @@ namespace Catalog.Controllers
     {
       var existingItem = await repository.GetItemAsync(id);
       if (existingItem is null) return NotFound();
-     existingItem.Name  = itemDto.Name;
-     existingItem.Price = itemDto.Price;
+      existingItem.Name = itemDto.Name;
+      existingItem.Price = itemDto.Price;
+      existingItem.Description = itemDto.Description;
       await repository.UpdateItemAsync(existingItem);
       return NoContent();
     }
