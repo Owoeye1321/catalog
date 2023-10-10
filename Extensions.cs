@@ -9,7 +9,7 @@ namespace Catalog
     //the this in this parseData function means that the item parameter would have a method of parseData of this class 
     public static ItemDto parseDto(this Item item)
     {
-      return new ItemDto { Id = item.Id, Name = item.Name, Price = item.Price, CreatedDate = item.CreatedDate };
+      return new ItemDto(item.Id, item.Name,item.Description, item.Price, item.CreatedDate);
     }
   }
 }
